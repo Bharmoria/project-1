@@ -3,10 +3,12 @@ import { config } from "dotenv";
 import cors from "cors";
 import { sendEmail } from "./mode/sendEmail.js";
 
+const express = require('express');
+
 const app = express();
 const router = express.Router();
 
-config({ path: "./config.env" });
+dotenv.config({ path: "./config.env" });
 
 app.use(
   cors({

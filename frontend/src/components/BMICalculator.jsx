@@ -23,7 +23,7 @@ const BMICalculator = () => {
       toast.warning(
         "You are underweight. Consider seeking advide from a healthcare provider."
       );
-    } else if (bmiValue >= 18.5 && bmiValue < 24.9) {
+    } else if (bmiValue >= 18.5 && bmiValue < 25) {
       toast.success(
         "You have normal weight. Keep maintaing a healthy lifestyle."
       );
