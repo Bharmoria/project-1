@@ -51,7 +51,7 @@ router.post("/send/mail", async (req, res, next) => {
 app.use(router);
 
 app.listen(process.env.PORT || 4000, () => {
-  console.log(`Server listening at port ${process.env.PORT || 3000}`);
+  console.log(`Server listening at port ${process.env.PORT || 4000}`);
 }).on('error', (err) => {
   console.error('Error starting server:', err);
 });
