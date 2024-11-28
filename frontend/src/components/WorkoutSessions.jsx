@@ -17,31 +17,27 @@ const WorkoutSessions = () => {
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Transform Your Body with Expert Workouts</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+            Achieve your fitness goals faster with personalized workout plans crafted by certified trainers. Whether you’re a beginner or seasoned athlete, we have the perfect program tailored to your needs. Start your journey today and unlock your true potential.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Join Our Fitness Community</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+            Connect with like-minded individuals and stay motivated in our supportive fitness community. Share progress, tips, and experiences with others who are on the same journey. Together, we’ll push each other to succeed!
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Track Your Progress Anytime, Anywhere</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+            Stay on top of your fitness journey with our easy-to-use progress tracking tools. Log workouts, monitor improvements, and set new goals with real-time feedback, all accessible through your personal dashboard.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Top Rated Bootcamps for Every Fitness Level</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+            Our bootcamp programs are designed to challenge and motivate. From beginner sessions to advanced training, each class is packed with high-energy routines that build strength, endurance, and flexibility. Find your perfect fit today!
             </p>
           </div>
         </div>
